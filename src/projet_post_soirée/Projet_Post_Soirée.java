@@ -16,6 +16,7 @@ public class Projet_Post_Soirée {
      */
     public static void main(String[] args) {
        System.out.println("Hello World");
+        System.out.println("arrete de toucher ta barbe");
        Lapin lap = new Lapin("Dero", 12);
         
        while (i <= 10) {
